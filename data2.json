@@ -1,0 +1,28 @@
+{
+ "personalInfo" :[
+        
+        {
+         "Name": "Anakin",
+         "Gender": "male", 
+         "Homeworld": "solapur",
+         "Born": "1981Y",
+         "Jedi": "yes"
+        },
+        {
+         "Name": "Amidala",
+         "Gender": "female", 
+         "Homeworld": "wakanda",
+         "Born": "1988Y",
+         "Jedi": "no"
+        },
+        
+        {
+         "Name": "ronaldo",
+         "Gender": "male",
+         "Homeworld": "Portugal",
+         "Born": "1991Y",
+         "Jedi": "no"
+        }
+    ]
+  
+  }

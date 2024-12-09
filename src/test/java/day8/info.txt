@@ -1,0 +1,13 @@
+gorest 
+Request methods PUT, POST, PATCH, DELETE needs access token
+access  totken  = da865475d9ba87e62bdfeb533f594757b6d5c26f38c134f595aa89a47db39ba3
+===
+get  = https://gorest.co.in/public/v2/users/6942840
+put = https://gorest.co.in/public/v2/users/6942840
+post = https://gorest.co.in/public/v2/users
+patch = https://gorest.co.in/public/v2/users/6942840
+delete = https://gorest.co.in/public/v2/users/6942840
+--------------------------------------------------------------------
+API chaning
+
+create user----getUser---updateUser ----deleteUser
